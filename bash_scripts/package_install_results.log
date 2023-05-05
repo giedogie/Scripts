@@ -1,0 +1,22 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (3.0.5-7build2).
+The following packages were automatically installed and are no longer required:
+  libatk-wrapper-java libatk-wrapper-java-jni libfontenc1 libgif7 libice-dev
+  libpthread-stubs0-dev libsm-dev libx11-dev libxau-dev libxaw7 libxcb-shape0
+  libxcb1-dev libxdmcp-dev libxkbfile1 libxt-dev libxxf86dga1 squashfs-tools
+  x11-utils x11proto-dev xorg-sgml-doctools xtrans-dev
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (3.0.5-7build2).
+The following packages were automatically installed and are no longer required:
+  libatk-wrapper-java libatk-wrapper-java-jni libfontenc1 libgif7 libice-dev
+  libpthread-stubs0-dev libsm-dev libx11-dev libxau-dev libxaw7 libxcb-shape0
+  libxcb1-dev libxdmcp-dev libxkbfile1 libxt-dev libxxf86dga1 squashfs-tools
+  x11-utils x11proto-dev xorg-sgml-doctools xtrans-dev
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
